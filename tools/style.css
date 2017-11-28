@@ -9,7 +9,7 @@ height: 100%;
 body{
 margin:0;
 padding:0;
-background:#000;
+background: rgb(55, 16, 84);
 font-family:"Helvetica Neue",Helvetica, Arial;
 }
 
@@ -48,7 +48,7 @@ height: auto;
 .logo_box{
 width: 349px;
 float: left;
-border-right: 1px solid #303030;
+border-right: 1px solid #fff;
 height: 280px;
 position: relative;
 }
